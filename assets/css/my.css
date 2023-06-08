@@ -1,0 +1,24 @@
+.selesai {
+  background-color: #5f8d4e;
+}
+.deadline {
+  background-color: #f8f988;
+}
+.urgent {
+  background-color: #ff6464;
+}
+.dalam-peminjaman {
+  background-color: white;
+}
+.center {
+  margin: auto;
+  text-align: center;
+}
+.wrapchart {
+  display: flex;
+  flex-wrap: wrap;
+}
+.chart {
+  width: 650px;
+  margin: 35px auto;
+}
